@@ -1,2 +1,3 @@
 # JoshuaCiesniewski.io
-* This is for extra credit :)
+* Welcome to my webpage!!
+* I hope you enjoy your stay :)
